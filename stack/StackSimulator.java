@@ -38,7 +38,7 @@ public class StackSimulator {
                 for (int i=0;i<width;i++){
                     System.out.print("-");
                 }
-                System.out.println("\n");
+                System.out.println();
                 current=current.next;
           }
            

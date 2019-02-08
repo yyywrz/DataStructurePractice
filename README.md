@@ -10,13 +10,17 @@ It functions as following:<br>
 * It can be achieved by neither array or linked list.<br>
 <br><br>
 2. Simulator of Stack and Queue
-* Stack
+* [Stack](https://github.com/yyywrz/DataStructurePractice/blob/master/stack/StackSimulator.java)
    * Stack is a first-in-last-out data structure
    * Two pricipal operations of a stack are 
       * push()
       * pop() 
-* Queue
+* [Queue](https://github.com/yyywrz/DataStructurePractice/blob/master/Queue/QueueSimulator.java)
    * Queue is a first-in-first-out data structure
    * Two pricipal opration of a queue are
       * Enqueue()
       * Dequeue()
+      <br><br>
+3. Binary Tree
+* Binary Search Tree
+   * [Binary Search Tree by Linked list](https://github.com/yyywrz/DataStructurePractice/blob/master/BStreeByLinkedlist/BStree.java)

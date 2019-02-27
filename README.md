@@ -25,9 +25,9 @@ It functions as following:<br>
 * Binary Search Tree
    * [Binary Search Tree by Linked list](https://github.com/yyywrz/DataStructurePractice/blob/master/BStreeByLinkedlist/BStree.java)
    <br>This is a sample of sorting by binary tree.<br>
-   * [Binary Search Tree Contact Book]
+   * [Binary Search Tree Contact Book](https://github.com/yyywrz/DataStructurePractice/blob/master/BStreeByLinkedlist/Table.java)
       * This project is achieved by BST
       * It stores person's names and addresses, and contacts are sorted by alphabetical order of their names
       * It support following operation: 1. insertion and deletion 2.searching(check if contact exist) 3.updating(replace previous address by new one)<br><br>
-* Self-balancing Binary Search Tree(AVL tree)
+* [Self-balancing Binary Search Tree(AVL tree)](https://github.com/yyywrz/DataStructurePractice/blob/master/BStreeByLinkedlist/AVLTable.java)
 <br> It functions as same as BST contact book. The only difference is it is achieved by AVL tree.

@@ -1,5 +1,5 @@
 # Data Structure Practice
-There are my noyes and practice works regrading to **Data Structure** course.<br>
+There are my notes and practice works regrading to **Data Structure** course.<br>
 All projects use Java Language.
 <br><br>
 1. [Dynamic Array](https://github.com/yyywrz/DataStructurePractice/blob/master/DynamicArray/DynamicArray.java)<br>
